@@ -13,5 +13,7 @@ public class Gato {
 	private String cor;
 	private String nome;
 	private int idade;
+
+	// métodos
 	
 }
